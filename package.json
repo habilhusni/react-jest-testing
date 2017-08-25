@@ -1,0 +1,22 @@
+{
+  "name": "react-jest-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habilhusni/react-jest-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habilhusni/react-jest-testing/issues"
+  },
+  "homepage": "https://github.com/habilhusni/react-jest-testing#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
